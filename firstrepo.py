@@ -1,1 +1,4 @@
-print("Hello World")
+a = "Hello"
+b = "CoE student"
+
+print(a + "," , b)
